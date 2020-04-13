@@ -1,0 +1,32 @@
+{
+   "albumTitle": "Taylor Swift",
+   "albumList": [
+      {
+         "title": "The Immortalists",
+         "artist": "Chloe Benjamin",
+         "image": "https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/6D6D6BC5-B659-4701-AE02-C5AF42320F67.png",
+         "description": "If you were told the date of your death,how would it shape your...",
+         "pace":"https://github.com/TsiaYu1304/image/blob/master/50.png?raw=true" ,
+         "state":"50% completed"
+         
+         
+      },
+      {
+         "title": "Grist Mill Road",
+         "artist": "Christopher J.",
+         "image": "https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/65473DAA-6929-4B78-A709-7A9817AA7FDA.png",
+         "description": "Twenty-six years ago Hannah had her eye shot out. Now she wants…",
+         "pace":"https://github.com/TsiaYu1304/image/blob/master/start.png?raw=true" ,
+         "state":"start read"
+      },
+      {
+         "title": "Street Art Activity Book",
+         "artist": "Mitchell Beazley",
+         "image": "https://cdn.zeplin.io/5e6edfd117dbf813ddad315b/assets/065D27D8-554C-41FA-B5C6-A0D5B678AB22.png",
+         "description": "Street art is colorful, vibrant, diverse and exciting.Now, you can create…",
+         "pace":"https://raw.githubusercontent.com/TsiaYu1304/image/master/start.png?token=AKJTDLP5KBCSMUIPWTOSUKS6SQ6D2" ,
+         "state":"start read"
+      }
+
+     
+]}
